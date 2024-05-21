@@ -34,3 +34,7 @@ my_dict.pop('orange')
 print(my_dict)
 print(my_dict.keys())
 print(my_dict.items())
+
+
+
+# ///
